@@ -1,0 +1,147 @@
+.sb{
+    background-color: rgb(0, 167, 167);
+    
+}
+
+.topp{
+  margin-bottom: 150px;
+}
+
+.sb h3{
+    color: #fff;
+    padding-bottom: 10% !important;
+}
+
+.sb a{
+    color: #fff;
+    padding-bottom: 5% !important;
+    padding-top: 20px !important;
+    font-size: larger;
+}
+
+.itm:hover{
+    background-color: rgb(0, 255, 255) !important;
+    color: tomato !important;
+}
+
+.w3-container h1{
+    text-align: center;
+}
+
+.pnl{
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 90px;
+}
+
+.dash-cont{
+    background-color: #ffffff;
+}
+
+.dt{
+    color: teal;
+
+}
+
+
+img{
+    margin: 5px;
+}
+.mod-title{
+    text-align: center;
+}
+.new{
+    margin-top: 10px;
+}
+
+.cafe-select{
+    margin-top: 10px;
+}
+
+.staff-select{
+    margin-top: 10px;
+}
+.assign-btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+/* ====================================== */
+form {
+    border: 3px solid #f1f1f1;
+  }
+  
+  /* Full-width inputs */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Extra style for the cancel button (red) */
+  .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+  }
+  
+  /* Center the avatar image inside this container */
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  /* Avatar image */
+  img.avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
+  
+  /* Add padding to containers */
+  .container {
+    padding: 16px;
+  }
+  
+  /* The "Forgot password" text */
+  span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+  
+  /* Change styles for span and cancel button on extra small screens */
+  @media screen and (max-width: 300px) {
+    span.psw {
+      display: block;
+      float: none;
+    }
+    .cancelbtn {
+      width: 100%;
+    }
+  }
+
+  .w3-container .btnn{
+    color: #ffffff;
+    background-color: teal !important;
+    padding: 10px 20px;
+    margin: 2px;
+  }

@@ -1,0 +1,11 @@
+        <li>The system is required to authenticate users.</li>
+        <li>Students should be able to scan the QR on their Id, and use the available service. </li>
+        <li>The system is required to check wether a student is in-cumpus or off-cumpus.</li>
+        <li>The system is required to check wether a student is 'Cafe' or 'Non-Cafe'.</li>
+        <li>The system is required to check which cafe the student belongs to.</li>
+        <li>The system is required to check wether the student has used during that specific meal time.</li>
+        <li>The system is required to allow students report complaint. and also view the food schedule.</li>
+        <li>The system is supposed to allow officers generate report.</li>
+        <li>The system is should allow officers to report complaint.</li>
+        <li>The system should let admins assign officers to cafes</li>
+        <li>The system should let admins generate, view and send report.</li>
