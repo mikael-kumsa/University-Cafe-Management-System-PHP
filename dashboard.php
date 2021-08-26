@@ -24,7 +24,7 @@ include('connection.php');
 <div class="w3-sidebar sb w3-bar-block" style="width:20%">
   <h3 class="w3-bar-item">Menu</h3>
   <a href="#" class="w3-bar-item w3-button itm"><i class="fas fa-home"> Home </i></a>
-  <a href="report1.php" class="w3-bar-item w3-button itm"><i class="fas fa-file-alt"> Generate Report </i></a>
+  <a href="generate-report.php" class="w3-bar-item w3-button itm"><i class="fas fa-file-alt"> Generate Report </i></a>
   <a href="index.php" class="w3-bar-item w3-button itm"><i class="fas fa-home"> Log Out </i></a>
 </div>
 <!-- Page Content -->
